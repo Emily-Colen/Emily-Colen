@@ -72,7 +72,7 @@ Implementação do problema das quatro rainhas, explorando algoritmos, estrutura
 
 ---
 
-## 🐍 Minhas contribuições
+## Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake-dark.svg">
