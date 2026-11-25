@@ -11,17 +11,23 @@ Atualmente, desenvolvo projetos voltados à programação, automação, sistemas
 
 ### Programação e desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css&theme=dark" height="40" />
+</p>
 
 ### Banco de dados e back-end
 
-<img src="https://skillicons.dev/icons?i=mysql,supabase,fastapi&theme=dark" />
-<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,fastapi&theme=dark" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" height="40" />
+</p>
 
 ### Sistemas embarcados e ferramentas
 
-<img src="https://skillicons.dev/icons?i=arduino,git,github&theme=dark" />
-<img height="48" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,git,github&theme=dark" height="24" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" height="26" />
+</p>
 
 ---
 
